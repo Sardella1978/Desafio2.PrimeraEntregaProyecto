@@ -1,0 +1,50 @@
+.body {font-size: 20px;
+       font-family: 'Roboto', sans-serif;
+       text-align: justify; background-color: rgb(214, 210, 210);
+       line-height: 1.5; margin: 0px;}
+    
+
+    h1 {color:#fc8506; padding-left: 700px; padding-top: 20px; 
+        font-family: 'Roboto', sans-serif;
+        font-size: 350%;
+        }
+    h2 {color:#fc8506;
+        text-align: center;
+        background-color: black;}
+    
+    h5 {text-align: center; display: inline-block; color: #fc8506; background-color: black;
+        padding-left: 10px; padding-right: 10px; padding-top: 5px; padding-bottom: 5px;
+        margin-left: 570px; border-style: solid;}    
+    
+    a{text-decoration: none; color:#fc8506;}
+
+    
+
+.header {background-image: url(./Imagenes/Header.png);
+         background-repeat: no-repeat; 
+         background-size: cover;
+         padding: 2%; margin: 0%;}
+
+    .nav {background-color: black;margin: 0px; padding: 5px;}    
+        .nav ul {list-style-type: none;}
+            .nav ul li {display: inline-block; 
+                        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                        padding-left: 150px; }
+                        
+
+          
+    .section {padding-left: 40px; padding-right: 40px; padding-top: 10px; padding-bottom: 10px}
+         .section img {padding-left: 180px;}
+
+           
+.footer {background-color: black; padding: 1px; margin-top: 30px; margin-bottom: 1px;}
+         .footer ul li {
+             display: inline-block; color: #fc8506;
+             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+             font-size: 18px; padding-left: 160px;}
+        .footer p {color: #fc8506;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+            font-size: 14px; padding-left: 600px;}   
+
+
+
